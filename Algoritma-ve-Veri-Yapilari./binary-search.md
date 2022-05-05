@@ -7,4 +7,4 @@ Cevaplar
 
 - root 4 olmali. 4 un solunda kalan sayilarin ortancasi da 2. dordun sol tarafi 2 olacak. 
 - Bu sekilde yaptigimizda:
-- ![nn](https://user-images.githubusercontent.com/62724247/166849740-431c8d78-a45f-49d2-a658-fc89886a60b2.PNG)
+- ![nn](https://user-images.githubusercontent.com/62724247/166850040-47d29734-b49a-44cb-8e36-93bfe8be9bd1.PNG)
